@@ -436,14 +436,14 @@ article img.align-left,
 #bottom-columns img, 
 .path-frontpage #content_top img,
 .path-frontpage #content-wrap article img {
-  border: 1px solid #ebebeb;
+  /*border: 1px solid #ebebeb;*/
   float: left;
   margin: 5px 15px 10px 0;
   padding: 5px;
 }
 .f-right,
 article img.align-right {
-  border: 1px solid #ebebeb;
+  /*border: 1px solid #ebebeb;*/
   float: right;
   margin: 5px 0 10px 15px; 
   padding: 5px; 
